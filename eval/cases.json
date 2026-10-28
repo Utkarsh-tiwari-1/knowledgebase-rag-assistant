@@ -1,0 +1,16 @@
+[
+  {
+    "id": "answer_from_context",
+    "question": "Which vector database does this project use?",
+    "expected_terms": ["chromadb"],
+    "expected_source": "architecture.md",
+    "should_abstain": false
+  },
+  {
+    "id": "unsupported_question",
+    "question": "What is the author's favorite color?",
+    "expected_terms": [],
+    "expected_source": null,
+    "should_abstain": true
+  }
+]

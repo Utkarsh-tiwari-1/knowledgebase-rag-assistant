@@ -1,0 +1,1 @@
+"""KnowledgeBase RAG document assistant."""
